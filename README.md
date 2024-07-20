@@ -99,5 +99,5 @@ EXPO_PUBLIC_API_URL=http://192.168.1.51:8000
 2. Go to the settings.
 ![Settings](./images/settings_mobile.png)
 3. Set the backend URL to `http://<your-ip-address>:8000`.
-![Settings](./images/settings_url.png)
+![Settings](./images/url_mobile.png)
 
